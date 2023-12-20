@@ -1,5 +1,6 @@
 # Introduction 
 - A simple webpack 5 template with typescript and babel but without a web framework such as React or Vue.js
+- `@babel/preset-typescript` is used to compile Typescript instead of `tsc`, so there is no `ts-loader` but only `babel-loader`
 
 # Usages
 1. Run `npm install` to install all dependencies
